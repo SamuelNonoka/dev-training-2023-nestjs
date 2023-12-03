@@ -1,3 +1,14 @@
+# dev-training-2023-nestjs
+
+Repositório utilizado para aplicar os conhecimentos do treinamento prático sobre NestJs.
+
+Estou estudando neste treinamento sobre os seguintes temas:
+
+- NestJs
+- NodeJs
+- Typescript
+- TypeORM
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
@@ -71,4 +82,3 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](LICENSE).
-# dev-training-2023-nestjs
